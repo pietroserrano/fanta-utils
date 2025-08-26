@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Calcolatore Fantacalcio - Fee percentuale annuale")
+st.title("Fantacalcio")
 st.text("Simulatore Costo Opzione Under")
 
 st.divider()
